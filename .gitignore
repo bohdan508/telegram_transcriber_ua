@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Local CTranslate2 model dirs produced by ct2-transformers-converter
+whisper-*-ct2/
+
+# IDE
+.idea/
